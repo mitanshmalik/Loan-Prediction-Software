@@ -35,6 +35,3 @@ Property_Area - Urban/ Semi Urban/ Rural
 
 Loan_Status - Loan approved (Y/N)
 
-
-# Owner - Kunal Garg
-# Contributor - Mitansh Malik
